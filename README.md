@@ -8,8 +8,6 @@ Total supply - 15.000.000.000
 
 On every transaction 3 things will happen, tokens will be reflected to all holders (your token count increases), tokens are held back in the contract to provide LP automatically and a certain amount of tokens will be burned.
 
-The contract and proof for locked liquidity will be available tomorrow 1-2 hours before the launch. The contract will be renounced after moonfire launch was successful.
-
 Main Features:
 
 - Automatic LP  
