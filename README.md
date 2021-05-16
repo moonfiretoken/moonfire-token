@@ -18,6 +18,12 @@ Main Features:
 
 Anti Whale 
 
+ * Sell within 12 hours : 38% burn  (28% Back to the Liquidity Pool, 10% Redistributed to Holders)
+ * Sell within 24 hours : 31% burn  (23% Back to the Liquidity Pool,  8% Redistributed to Holders)
+ * Sell within 3  days  : 24% burn  (18% Back to the Liquidity Pool,  6% Redistributed to Holders)
+ * Sell within 7  days  : 17% burn  (13% Back to the Liquidity Pool,  4% Redistributed to Holders)
+ * Standard burn        : 10% burn  ( 8% Back to the Liquidity Pool,  2% Redistributed to Holders)
+
 Max amount per wallet :    300.000.000 (2%)  
 Max transaction              :    100.000.000
 
