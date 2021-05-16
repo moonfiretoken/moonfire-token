@@ -2,7 +2,7 @@
 
 Join the Moonfire. HODL with us, sky is the limit! Hodlers will be rewarded while paper handed sellers will get rekt! The burn rate reduces the longer we join each other near the fire :)
 
-This Token is made because we were sick of coins, where the majority of tokens is held by only 10 wallets.  We will burn 30% of Tokens in the beginning. 10% will be held by the devs.
+This Token is made because we were sick of coins, where the majority of tokens is held by only 10 wallets.  We will burn 20% of Tokens in the beginning. 10% will be held by the devs.
 
 Total supply - 15.000.000.000
 
